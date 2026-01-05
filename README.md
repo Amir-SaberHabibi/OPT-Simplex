@@ -2,7 +2,7 @@
 
 ## Overview
 
-OPT-Simplex is a Python-based project designed to solve linear programming problems using the Simplex optimization method. The Simplex method is a well-known algorithm used for finding the optimal solution to linear programming problems. This project provides a comprehensive implementation that supports both maximization and minimization problems, making it versatile for various optimization needs.
+OPT-Simplex is a Python-based educational project designed to solve linear programming problems using the Simplex optimization method. The Simplex method is a well-known algorithm used for finding the optimal solution to linear programming problems. This project provides a comprehensive implementation that supports both maximization and minimization problems, making it versatile for various optimization needs.
 
 ## Features
 
